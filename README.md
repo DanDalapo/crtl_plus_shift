@@ -1,4 +1,4 @@
-﻿# crtl-plus-shift
+﻿# ctrl-plus-shift
 
 BotoTeknoy: CIT-U eballot
 
